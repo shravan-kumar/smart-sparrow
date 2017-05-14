@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.smartsparrow.codingchallenge.ApplicationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-14T10:37:45" hostname="shravans-MacBook-Pro.local" time="0.152">
+  <properties/>
+  <testcase name="Should throw InterruptedException when EXIT in upper is issued" classname="com.smartsparrow.codingchallenge.ApplicationTests" time="0.146"/>
+  <testcase name="Should throw InterruptedException when exit in upper is issued" classname="com.smartsparrow.codingchallenge.ApplicationTests" time="0.001"/>
+  <testcase name="Should throw IllegalArgumentException when nothing entered" classname="com.smartsparrow.codingchallenge.ApplicationTests" time="0.005"/>
+  <system-out><![CDATA[Good Bye!
+Good Bye!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
