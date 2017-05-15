@@ -8,7 +8,7 @@ Gradle (see here: https://docs.gradle.org/current/userguide/installation.html)
 Via bash/sh etc, 'cd' to the project root
 Execute 'gradle clean jar'
 Include the arg '-i' for more logging. E.g. 'gradle -i clean jar'
-A runnable jar file called robot.jar will be found at 'build/libs/robot.jar'
+A runnable jar file called coding_challenge.jar will be found at 'build/libs/coding_challenge.jar'
 Note: This jar will be roughly 7MB as it includes the Groovy runtime as well
 Run
 
